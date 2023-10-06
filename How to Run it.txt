@@ -1,0 +1,5 @@
+First install G++ from the source: https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/
+Then run this Command in the CMD of that Folder
+g++ mainmenu.cpp librmenu.cpp librlogin.cpp librreg.cpp librinter.cpp stumenu.cpp stulogin.cpp stureg.cpp stuinter.cpp book.cpp bookissue.cpp -o libmangsys
+
+
